@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>eBook Receitas Saudáveis</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; max-width: 700px; margin: auto; }
+    h1 { color: #2e7d32; }
+    h2 { color: #388e3c; }
+    ul { margin-left: 20px; }
+    .botao {
+      background-color: #43a047;
+      color: white;
+      padding: 15px 25px;
+      text-align: center;
+      display: inline-block;
+      font-size: 18px;
+      border-radius: 5px;
+      text-decoration: none;
+    }
+    .depoimentos {
+      font-style: italic;
+      color: #555;
+      margin: 10px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Descubra Como Comer Bem Mesmo na Correria: 20 Receitas Saudáveis em Até 20 Minutos!</h1>
+
+  <h2>Se você quer praticidade, sabor e saúde em um só lugar, este eBook foi feito para você!</h2>
+
+  <h3>O que você vai encontrar nesse eBook?</h3>
+  <ul>
+    <li>20 receitas práticas para o dia a dia</li>
+    <li>Cafés da manhã, almoços, jantares e lanches</li>
+    <li>Ingredientes simples e acessíveis</li>
+    <li>Instruções rápidas passo a passo</li>
+    <li>Opções saudáveis e gostosas para toda a família</li>
+  </ul>
+
+  <h3>Para quem é esse eBook?</h3>
+  <ul>
+    <li>Para quem tem rotina corrida</li>
+    <li>Para quem quer comer melhor sem gastar muito</li>
+    <li>Para iniciantes na cozinha</li>
+    <li>Para quem busca receitas leves e nutritivas</li>
+  </ul>
+
+  <h3>Bônus Exclusivo:</h3>
+  <ul>
+    <li>Checklist semanal de compras</li>
+    <li>Mini cardápio pronto para 5 dias com base nas receitas</li>
+  </ul>
+
+  <div class="depoimentos">
+    "Em 3 dias já fiz 4 receitas! São simples e deliciosas." — Ana P.<br>
+    "Finalmente estou comendo bem mesmo com pouco tempo!" — Lucas M.
+  </div>
+
+  <h2>Comece agora por apenas R$ 9,90!</h2>
+  <p>Clique no botão abaixo e receba o eBook imediatamente no seu e-mail:</p>
+
+  <a class="botao" href="#">Quero minhas 20 receitas agora!</a>
+
+  <h4>Garantia:</h4>
+  <p>Você tem 7 dias para testar. Não gostou? Devolvemos seu dinheiro sem perguntas!</p>
+
+</body>
+</html>
